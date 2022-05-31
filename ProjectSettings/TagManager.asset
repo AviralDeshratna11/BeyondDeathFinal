@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - ladder
+  - Player
+  - Background
+  - Enemy 1
+  - groundlayer
+  - Lava
+  - Fireball
+  - Interactables
+  - Enemy Boss
+  - Enemy 2
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2164499793
+    locked: 0
+  - name: Ladder
+    uniqueID: 2126723063
+    locked: 0
+  - name: Player
+    uniqueID: 3107636385
+    locked: 0
+  - name: Fireball
+    uniqueID: 3276637537
+    locked: 0
+  - name: Bullet
+    uniqueID: 967368673
+    locked: 0
+  - name: Foreground
+    uniqueID: 1675409151
+    locked: 0
+  - name: Enemy Boss
+    uniqueID: 1655397391
+    locked: 0
+  - name: Enemy 1
+    uniqueID: 719697593
+    locked: 0
+  - name: Enemy 2
+    uniqueID: 2989071431
+    locked: 0
+  - name: Lava
+    uniqueID: 1525173015
+    locked: 0
+  - name: Interactables
+    uniqueID: 1011531353
+    locked: 0
